@@ -1,9 +1,9 @@
 {
-  "ReserveFund": "",
-  "TeamFund": "",
-  "AdvisorsFund": "",
-  "BancorFund": "",
-  "BountyFund": "",
+  "ReserveFund": "0xf438501b69eedd0dc3fc4f83cb6a1eba75e2fa84",
+  "TeamFund": "0xeb912942fbb6f3fb575d5ef0ba47846d42d65765",
+  "AdvisorsFund": "0xeff12117380a09ef1c9d4a8c8cd07e663fe96e6e",
+  "BancorFund": "0x60902ebe131cf155af41a8447f3f659ce49d9c30",
+  "BountyFund": "0x709e4ae5cb92706dbd2491ba9719ec7640127177",
 
   "Manager": "0x6EACD4DD508D3D366B165A8E1656B27FC8AD257A",
   "Controller_Address1": "0x53167C0A884FF493909B2DBB61721CB81238BC38",
