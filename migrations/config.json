@@ -1,0 +1,12 @@
+{
+  "ReserveFund": "",
+  "TeamFund": "",
+  "AdvisorsFund": "",
+  "BancorFund": "",
+  "BountyFund": "",
+
+  "Manager": "0x6EACD4DD508D3D366B165A8E1656B27FC8AD257A",
+  "Controller_Address1": "0x53167C0A884FF493909B2DBB61721CB81238BC38",
+  "Controller_Address2": "0x759C2B15E81476329D8E2211EBE1E741BD9B3C77",
+  "Controller_Address3": "0xF0E0FF6944E0324E7663A3A27AC1860E5DAFA9FA"
+}
